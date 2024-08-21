@@ -7,3 +7,10 @@ Registration API Response
     "ownerEmail": "spasupuleti@gmail.com",
     "rollNo": "2021BCSE07AED278"
 }
+
+Access token
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MjM1NjAzLCJpYXQiOjE3MjQyMzUzMDMsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImNmMWQwNjFiLTExYjYtNGFlYi05NWJiLTk3MjBmMGQzMDViOCIsInN1YiI6InNwYXN1cHVsZXRpQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6ImFsbGlhbmNlIHVuaXZlcnNpdHkiLCJjbGllbnRJRCI6ImNmMWQwNjFiLTExYjYtNGFlYi05NWJiLTk3MjBmMGQzMDViOCIsImNsaWVudFNlY3JldCI6ImhWeXdhYU1qeUZaWk9lWHIiLCJvd25lck5hbWUiOiJwIHNhaSBwdWppdGhhIiwib3duZXJFbWFpbCI6InNwYXN1cHVsZXRpQGdtYWlsLmNvbSIsInJvbGxObyI6IjIwMjFCQ1NFMDdBRUQyNzgifQ.m3db17kNX4BbWjhtCj7yrlGq5BEE5tgHwEGJEcRMk5E",
+    "expires_in": 1724235603
+}
