@@ -1,0 +1,9 @@
+Registration API Response
+{
+    "companyName": "alliance university",
+    "clientID": "cf1d061b-11b6-4aeb-95bb-9720f0d305b8",
+    "clientSecret": "hVywaaMjyFZZOeXr",
+    "ownerName": "p sai pujitha",
+    "ownerEmail": "spasupuleti@gmail.com",
+    "rollNo": "2021BCSE07AED278"
+}
